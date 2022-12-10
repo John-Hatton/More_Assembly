@@ -230,6 +230,7 @@ _deps
 
 # Folders
 .idea/
+.vs/
 
 
 # Files
